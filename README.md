@@ -2,7 +2,7 @@
 
 The Examination System project is a C# console application designed for managing and conducting exams for educational purposes. It offers a flexible and customizable platform for creating various types of exams, including true/false questions and multiple-choice questions.
 
-## Features
+## 🚀 Features
 
 ### 1. Modular Design
 
@@ -36,11 +36,3 @@ This feature allows educators to tailor exams to specific subjects and learning 
 ### 5. Validation and Error Handling
 
 The application includes robust validation and error-handling mechanisms to ensure accurate and appropriate user inputs. This ensures the reliability of the examination process and a smooth user experience.
-
-## Getting Started
-
-To run the Examination System locally, follow these steps:
-
-1. Clone the repository.
-   ```bash
-   git clone https://github.com/your-username/examination-system.git
